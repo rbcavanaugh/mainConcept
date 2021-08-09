@@ -25,7 +25,7 @@ mainConcept is an R package. You can install the app locally with:
 
 ``` r
 library(remotes)
-remotes::install_github("rbcavanaugh/MCG")
+remotes::install_github("rbcavanaugh/mainConcept")
 ```
 
 ## Using
