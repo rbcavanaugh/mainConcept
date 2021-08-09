@@ -1,15 +1,37 @@
-Package: MCG
-Title: MAIN-CONCEPT-GOLEM
+Package: mainConcept
+Title: Main Concept Analysis
 Version: 0.0.0.9000
 Authors@R: person('Rob', 'Cavanaugh', email = 'rob.cavanaugh@pitt.edu', role = c('cre', 'aut'))
-Description: Test package for main concept app.
+Description: A web interface for scoring main concept analysis in aphasia.
 License: GPL (>= 3)
 Imports: 
+    here,
+    bslib,
+    shinyjs,
+    waiter,
+    attempt,
     config (>= 0.3.1),
+    dplyr,
+    DT,
+    ggplot2,
+    glue,
     golem (>= 0.3.1),
-    shiny (>= 1.6.0)
+    googlesheets4,
+    htmltools,
+    openxlsx,
+    readr,
+    scales,
+    shinipsum,
+    shiny (>= 1.6.0),
+    shinyWidgets,
+    stringr,
+    tibble,
+    tidyr,
+    tokenizers
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
 URL: https://www.github.com/rbcavanaugh/MCG
 BugReports: https://www.github.com/rbcavanaugh/MCG/issues
+Config/testthat/edition: 3
+Language: en-US

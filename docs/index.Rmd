@@ -1,0 +1,1352 @@
+---
+title: Main Concept Analysis
+output:
+  bookdown::gitbook:
+    split_by: chapter
+    number_sections: true
+    toc_depth: 1
+---
+
+# Introduction
+
+Main Concept Analysis (MCA) is a discourse assessment originally
+developed by Nicholas and Brookshire (1995) that measures the
+informativeness of a discourse sample on a given topic. Main concept
+checklists for several widely used tasks (including picture description,
+picture sequence, story retell, and procedural stimuli) have been
+developed based on discourse samples of control speakers (Richardson &
+Dalton, 2016; 2020). MCA is a hybrid discourse measure that provides
+some information on micro-linguistic features of the discourse sample as
+well as more macro-linguistic features about the overall adequacy of the
+discourse sample to communicate an intended message.
+
+MCA has shown good sensitivity in differentiating between controls and
+individuals with communication disorders (e.g., Kong, Whiteside, &
+Bargmann, 2016; Dalton & Richardson, 2019) and between individuals with
+fluent and non-fluent aphasia (Kong et al., 2016). Importantly, studies
+have shown that changes in informativeness are associated with treatment
+performance (Albright & Purves, 2008; Avent & Austermann, 2003; Coelho,
+McHugh, & Boyle, 2000; Cupit, Rochon, Leonard, & Laird, 2010; Stark,
+2010) and are associated with listener's perceptions of communication
+quality (Cupit et al., 2010; Ross & Wertz, 1999).
+
+Each main concept consists of several *essential elements*,
+corresponding to the subject, main verb, object (if appropriate), and
+any subordinate clauses (Nicholas & Brookshire, 1995). The main concept
+is assigned one of 5 codes depending on the accuracy (are the essential
+elements accurate?) and completeness (are essential elements present?)
+of the production.
+
+[Coding:]{.ul}
+
+-   AC = accurate and complete = contains all elements of the main
+    > concept on the checklist with no incorrect information 
+
+-   AI = accurate and incomplete = contains no incorrect information,
+    > but leaves out at least one essential element of the main concept
+    > on the checklist 
+
+-   IC = inaccurate and complete = contains at least one incorrect piece
+    > of essential information (e.g., "knight" for "prince") but
+    > includes all essential elements of the main concept on the
+    > checklist 
+
+-   II = inaccurate and incomplete = clearly corresponds with a main
+    > concept on the checklist but includes at least one incorrect
+    > essential element and fails to include at least one essential
+    > element 
+
+-   AB = absent = did not produce the main concept
+
+[Scoring\*:]{.ul}
+
+<center>
+
+ Code                         | **Richardson and Dalton, 2016**   | **Kong, 2009**                         
+------------------------------|:---------------------------------:|:-------------:
+ Accurate & Complete (AC)     | 3 Points                          | 3 Points  
+ Accurate & Incomplete (AI)   | 2 Points                          | 2 Point 
+ Inaccurate & Complete (IC)   | 2 Points	                        | 1 Point  
+ Inaccurate & Incomplete (II) | 1 Point                           | 1 Point                              
+ Absent (AB)                  | 0 Points                          | 0 Points 
+ 
+ </center>
+
+*\*To our knowledge, norms for AphasiaBank stimuli are only available
+for the Richardson & Dalton 2016 scoring system. If using the Kong, 2009
+system, scores cannot be compared to the Richardson & Dalton 2016 norms.
+See Kong et al., 2016 for main concepts, checklists, and norms for
+additional stimuli.*
+
+Nicholas and Brookshire also developed a series of coding rules to
+assist in determining the accuracy and completeness of main concepts.
+These coding rules are now supplemented with the published checklists,
+which provide common alternatives produced for each main concept, since
+there is variability in the syntax and vocabulary that could be used to
+produce a main concept. These alternative lists are not comprehensive,
+so it is possible that a client may produce an acceptable alternative
+that is not in the checklist.
+
+Note to Remember:
+
+-   Main concepts do not have to be given in the transcript in the same order they are shown in the main concept list.
+
+    -   [Cinderella Example]{.ul}
+
+        -   Concept: 18. She knew **she had to be home by midnight**
+            > because everything will turn back at midnight.
+
+            -   What if this occurs later in the story (e.g., after #21
+                > -- something like "she heard the clock and knew she
+                > had to be home by midnight")
+
+                -   *Yes, we would still allow that to count. There
+                    > seemed to be a couple of "typical" orderings of
+                    > MCs. We went with the most frequent when ordering
+                    > our list.*
+
+                -   *More/updated information on sequencing for
+                    > Cinderella is available via Greenslade et al.,
+                    > 2020 -
+                    > <https://doi.org/10.1044/2020_AJSLP-19-00151>*
+
+-   If a main concept is spoken several times, score the final version.
+
+-   Essential elements can be produced across multiple utterances.
+
+# Required Readings/Resources:
+
+The following background readings and resources are needed to accurately
+and reliably implement main concept analysis:
+
+ - Nicholas, L. E., & Brookshire, R. H. (1995). Presence, completeness,
+ and accuracy of main concepts in the connected speech of
+ non-brain-damaged adults and adults with aphasia. *Journal of Speech,
+ Language, and Hearing Research*, *38*(1), 145-156.
+
+ - Richardson, J. D., & Dalton, S. G. (2016). Main concepts for three
+ different discourse tasks in a large non-clinical sample.
+ *Aphasiology*, *30*(1), 45-73.
+
+ - Richardson, J. D., & Dalton, S. G. H. (2020). Main concepts for two
+ picture description tasks: an addition to Richardson and Dalton, 2016.
+ *Aphasiology*, *34*(1), 119-136.
+
+ - Dalton, S. G. H., & Richardson, J. D. (2019). A large-scale comparison
+ of main concept production between persons with aphasia and persons
+ without brain injury. *American journal of speech-language pathology*,
+ *28*(1S), 293-320.
+
+ - Richardson and Dalton Lab "Living" Rules for Determining Accuracy and
+ Completeness of Main Concepts with Examples (this manual)
+
+# Links to Picture Stimuli
+
+AphasiaBank Protocol Pictures -
+[[https://aphasia.talkbank.org/protocol/pictures/]{.ul}](https://aphasia.talkbank.org/protocol/pictures/)
+
+-   Broken Window -
+    > [[https://aphasia.talkbank.org/protocol/pictures/window.jpg]{.ul}](https://aphasia.talkbank.org/protocol/pictures/window.jpg)
+
+-   Cat Rescue/Cat in the Tree -
+    > [[https://aphasia.talkbank.org/protocol/pictures/cat.jpg]{.ul}](https://aphasia.talkbank.org/protocol/pictures/cat.jpg)
+
+-   Cinderella -
+    > [[https://aphasia.talkbank.org/protocol/pictures/Cinderella-book.pdf]{.ul}](https://aphasia.talkbank.org/protocol/pictures/Cinderella-book.pdf)
+
+    -   \*see administration instructions; participants are NOT to look
+        > at book as they tell the story
+
+-   Refused Umbrella -
+    > [[https://aphasia.talkbank.org/protocol/pictures/umbrella.jpg]{.ul}](https://aphasia.talkbank.org/protocol/pictures/umbrella.jpg)
+
+# Broken Window Elicitation Script
+
+AphasiaBank Instructions -
+[[https://aphasia.talkbank.org/protocol/instructions.pdf]{.ul}](https://aphasia.talkbank.org/protocol/instructions.pdf)
+
+AphasiaBank Troubleshooting -
+[[https://aphasia.talkbank.org/protocol/troubleshooting.pdf]{.ul}](https://aphasia.talkbank.org/protocol/troubleshooting.pdf)
+
+"Now I'm going to show you these pictures.\" (Present picture series.)
+
+"Take a little time to look at these pictures. They tell a story. Take a
+look at all of them, and then I'll ask you to tell me the story with a
+beginning, a middle, and an end. You can look at the pictures as you
+tell the story."
+
+If no response in 10 seconds, give second prompt: "Take a look at this
+picture (point to first picture) and tell me what you think is
+happening."
+
+If needed, point to each picture sequentially, giving the prompt: "And
+what happens here?"
+
+For each panel, if no response, provide the prompt: "Can you tell me
+anything about this picture?"
+
+If no response, point to the picture and ask: "Is the boy kicking the
+ball through the window?"
+
+# Broken Window Main Concept Checklist
+
+Essential information is *italicized* and **bolded**. Each essential
+segment is numbered (superscript) with alternative productions (if any
+were produced) listed by number below. These alternative productions ARE
+NOT intended to be an exhaustive list but represent some of the more
+common productions of the normative sample and are included to aid in
+scoring. Additional, but non-essential, information often spoken to
+complete the main concept is in normal font. If multiple utterances can
+correspond with an MC, select the best utterance presented for the
+purposes of coding/scoring.
+
+<!-- 1)  ***^1^A/The boy ^2^was ^3^outside*.** -->
+
+<!--     a.  *He, any name (e.g., Johnny, Mark)* -->
+
+<!--     b.  *Is, decided to go* -->
+
+<!--     c.  *In his yard, on the lawn, out of the house, etc.* -->
+
+<!-- > Note: Sometimes combined with MC2 in a statement such as "The boy was -->
+<!-- > playing soccer outside" or "The boy was kicking the ball in the yard". -->
+<!-- > These statements would receive AC codes for MC1 and MC2. -->
+
+```{r, echo = F, results = 'asis'}
+source("stim_broken-window.R")
+
+for(i in ls(pattern = "bw")){
+  print(shiny::markdown(get(i)))
+}
+```
+
+```{r, include = F}
+rm("stim_broken-window.R")
+```
+
+# Cat Rescue Elicitation Script
+
+AphasiaBank Instructions -
+[[https://aphasia.talkbank.org/protocol/instructions.pdf]{.ul}](https://aphasia.talkbank.org/protocol/instructions.pdf)
+
+AphasiaBank Troubleshooting -
+[[https://aphasia.talkbank.org/protocol/troubleshooting.pdf]{.ul}](https://aphasia.talkbank.org/protocol/troubleshooting.pdf)
+
+"Here is another picture.\" (Present picture.)
+
+"Look at everything that's happening and then tell me a story about what
+you see. Tell me the story with a beginning, a middle, and an end."
+
+If no response in 10 seconds, give second prompt: "Take a look (point to
+picture) and tell me any part of the story."
+
+If fewer than 2 utterances, give third prompt: "Anything else you can
+tell me about the story?"
+
+If no response at all, go to Troubleshooting questions.
+
+# Cat Rescue Main Concepts
+
+Essential information is ***italicized and bolded***. Each essential
+segment is numbered (superscript) with alternative productions (if any
+were produced) listed by number below. These alternative productions are
+not intended to be an exhaustive list but represent some of the more
+common productions of the normative sample and are included to aid in
+scoring. Additional, but non-essential, information often spoken to
+complete the main concept is in normal font.
+
+```{r, echo = F, results = 'asis'}
+source("stim_cat-rescue.R")
+
+for(i in ls(pattern = "cr")){
+  print(shiny::markdown(get(i)))
+}
+```
+
+```{r, include = F}
+rm("stim_cat-rescue.R")
+```
+
+# Cinderella Elicitation Script
+
+AphasiaBank Instructions -
+[[https://aphasia.talkbank.org/protocol/instructions.pdf]{.ul}](https://aphasia.talkbank.org/protocol/instructions.pdf)
+
+AphasiaBank Troubleshooting -
+[[https://aphasia.talkbank.org/protocol/troubleshooting.pdf]{.ul}](https://aphasia.talkbank.org/protocol/troubleshooting.pdf)
+
+Present picture book (or ppt/pdf).
+
+"I'm going to ask you to tell a story. Have you ever heard the story of
+Cinderella?
+
+(Make note of answer for demographic data. If answer is no, ask
+participant to tell a fairy tale s/he knows.)
+
+Do you remember much about it? These pictures might remind you of how it
+goes. Take a look at the pictures and then I'll put the book away, and
+ask you to tell me the story in your own words."
+
+Allow participant to look through book (assist with page turning if
+needed) and then, if necessary, prompt: "Now tell me as much of the
+story of Cinderella as you can. You can use any details you know about
+the story, as well as the pictures you just looked at."
+
+If participant gives a response of fewer than three utterances, or seems
+to falter, allow 10 seconds, then prompt: "What happened next?" or "Go
+on."
+
+Continue until participant concludes story or it is clear s/he has
+finished.
+
+If no response, go to Troubleshooting questions.
+
+# Cinderella Main Concepts
+
+Essential information is ***italicized and bolded***. Each essential
+segment is numbered (superscript), with alternative productions (if any
+were produced) listed by number below. These alternative productions are
+not intended to be an exhaustive list, but represent some of the more
+common productions of the normative sample and are included to aid in
+scoring. Additional, but non-essential, information often spoken to
+complete the main concept is in normal font.
+
+```{r, echo = F, results = 'asis'}
+source("stim_cinderella.R")
+
+for(i in ls(pattern = "c")){
+  print(shiny::markdown(get(i)))
+}
+```
+
+```{r, include = F}
+rm("stim_cinderella.R")
+```
+
+# Peanut Butter and Jelly Elicitation Script
+
+AphasiaBank Instructions -
+[[https://aphasia.talkbank.org/protocol/instructions.pdf]{.ul}](https://aphasia.talkbank.org/protocol/instructions.pdf)
+
+AphasiaBank Troubleshooting -
+[[https://aphasia.talkbank.org/protocol/troubleshooting.pdf]{.ul}](https://aphasia.talkbank.org/protocol/troubleshooting.pdf)
+
+(non-U.S. test sites may substitute another simple sandwich)
+
+(Present picture ONLY if participant is unable to give any verbal
+response.)
+
+"Let's move on to something a little different. Tell me how you would
+make a peanut butter and jelly sandwich."
+
+If no response in 10 seconds, give second prompt: "If you were feeling
+hungry for a peanut butter and jelly sandwich, how would you make it?"
+
+If no response, go to Troubleshooting questions.
+
+# Peanut Butter Main Concepts
+
+Essential information is ***italicized and bolded***. Each essential
+segment is numbered (superscript) with alternative productions (if any
+were produced) listed by number below. These alternative productions are
+not intended to be an exhaustive list, but represent some of the more
+common productions of the normative sample and are included to aid in
+scoring. Additional, but non-essential, information often spoken to
+complete the main concept is in normal font.
+
+```{r, echo = F, results = 'asis'}
+source("stim_sandwich.R")
+
+for(i in ls(pattern = "s")){
+  print(shiny::markdown(get(i)))
+}
+```
+
+```{r, include = F}
+rm("stim_sandwich.R")
+```
+
+Note: For concepts 1-5, "put" is not an acceptable verb. For each of
+those concepts there was a similar relevant concept (i.e., "put the
+bread on the counter"), however, none of these relevant concepts reached
+criterion. In these cases, the speaker would receive a score of absent,
+and any information associated with the verb "put" should be treated as
+extra information that is not scored. (But see N&B rules for
+Completeness/***Statements containing some of the essential
+information***)
+
+† Indicates concepts produced by 50% of the normative sample
+
+†† Indicates concepts produced by 66% of the normative sample
+
+# Refused Umbrella Elicitation Script
+
+AphasiaBank Instructions -
+[[https://aphasia.talkbank.org/protocol/instructions.pdf]{.ul}](https://aphasia.talkbank.org/protocol/instructions.pdf)
+
+AphasiaBank Troubleshooting -
+[[https://aphasia.talkbank.org/protocol/troubleshooting.pdf]{.ul}](https://aphasia.talkbank.org/protocol/troubleshooting.pdf)
+
+"Now I'm going to show you these pictures.\" (Present picture series.)
+
+"Here are some more pictures that tell a story. Take a look at all of
+them, and then I'll ask you to tell me the story with a beginning, a
+middle, and an end. Again, you can look at the pictures as you tell the
+story."
+
+If no response in 10 seconds, give second prompt: "Look at this picture
+(point to first picture) and tell me what you think is happening."
+
+If needed, point to each picture sequentially, giving the prompt: "And
+what happens here?"
+
+For each panel, if no response, provide the prompt: "Can you tell me
+anything about this picture?"
+
+If no response, go to Troubleshooting questions.
+
+# Refused Umbrella Main Concepts
+
+Essential information is ***italicized and bolded***. Each essential
+segment is numbered (superscript) with alternative productions (if any
+were produced) listed by number below. These alternative productions are
+not intended to be an exhaustive list but represent some of the more
+common productions of the normative sample and are included to aid in
+scoring. Additional, but non-essential, information often spoken to
+complete the main concept is in normal font.
+
+Healthy control speakers often used reported speech (e.g., one of the
+characters speaking to the other) in order to tell this story. Main
+Concepts that are produced as reported speech should be scored for the
+corresponding concept, even if the reported speech causes the concept to
+be stated in a different format than that reported below. Additionally,
+during interactions between the mother and boy, main concepts were often
+expressed from either character's perspective.
+
+```{r, echo = F, results = 'asis'}
+source("stim_umbrella.R")
+
+for(i in ls(pattern = "u")){
+  print(shiny::markdown(get(i)))
+}
+```
+
+```{r, include = F}
+rm("stim_umbrella.R")
+```
+
+# Nicholas & Brookshire Coding Rules with Examples from Richardson & Dalton
+
+## **[Accuracy]{.ul}**
+
+### ***Wording***
+
+-   The wording of essential information does not have to be the same as
+    > that of the listed main concept, but the general meaning must be
+    > the same. 
+
+    -   Some alternate versions of essential information in specific
+        > main concepts are given in parentheses in the main concept
+        > lists. There may be appropriate alternatives not listed. 
+
+    -   Figures of speech and colloquialisms are acceptable.
+
+-   [Cookie Theft Example -]{.ul} For the main concept, \"The woman is
+    > doing the dishes,\" the following statements would be considered
+    > accurate because they are plausible given the stimulus picture:
+
+    -   The mother is cleaning the dishes.
+
+    -   The maid is drying a plate.
+
+    -   The lady was washing her dishes.
+
+-   [Broken Window Example --]{.ul} For main concept 4 "***^1^The man
+    > ^2^is sitting*** in a chair and/or inside the house", the
+    > following statements would be considered accurate.
+
+    -   The father is relaxing in his recliner.
+
+    -   The neighbor is sitting in the living room.
+
+    -   The man is resting and watching TV.
+
+    -   The man is sitting.
+
+    -   He is just sitting there. (as long as "he" is not ambiguous,
+        > e.g., pointing to third frame, or following a sentence like
+        > "That must be the neighbor. He is just sitting there.", etc.)
+
+-   [Cinderella Examples]{.ul}
+
+    -   Concept 1: **Dad remarried a woman** with two daughters.
+
+        -   Is married OK, or does it have to say 'remarried'?
+
+            -   *Married is ok. There does not have to be some
+                > indication of repetition -- the first choice in the
+                > appendix is "got married to" which does not require
+                > some indication of repetition*
+
+    -   Concept 3: ***^1^Stepmother/ stepsisters ^2^were mean ^3^to
+        > Cinderella.***
+
+        -   Does "they treated her like dirt" count?
+
+            -   *If "her" clearly references Cinderella based on
+                > transcript, and "they" clearly reference the
+                > stepmother and/or stepsisters, "like dirt" matches the
+                > alternative productions in terms of semantic meaning,
+                > so this would be accurate (and complete)*
+
+        -   Does "her mother was kind of mean to her" count?
+
+            -   *If they do not mention the word "step", there must
+                > be/have been some indication that the stepmother is a
+                > unit separate from Cinderella; mother here implies
+                > "real" or "biological" mother, which would be
+                > inaccurate*
+
+            -   *It could also be argued that "kind of mean" is not the
+                > same as the options indicated in the checklist -
+                > "mean, cruel, wicked, treated Cinderella poorly, were
+                > awful, hated" - but this may be too subjective*
+
+    -   Concept 5: Cinderella **has to do** all the housework
+
+        -   "Had some chores that she should do"
+
+            -   *Because verb \"should\" is a suggestion, and not a verb
+                > portraying that does not leave a choice/force/control,
+                > it changes the meaning. THIS IS HIGHLY SUBJECTIVE AND
+                > A RULE WITH FREQUENT DISAGREEMENT*
+
+    -   Concept 8. **They got an invitation** to the ball.
+
+        -   "there was an announcement about a ball" (assuming not OK,
+            > as there was no alternative for 'invitation')
+
+            -   *You are correct, invitation was the only word used for
+                > this concept. "announcement about a ball" could be
+                > applied to MC7 though (King announces **there is going
+                > to be a ball** in honor of son who needs to find a
+                > wife.)*
+
+    -   Concept 11: **The stepsisters tore Cinderella's dress.**
+
+        -   Does it have to be the dress or can "tore jewelry" count?
+
+            -   *We have accepted jewelry in the past though no other
+                > alternatives are listed in the appendix, it is
+                > something that is torn and is visible in the picture
+                > book as well, and we didn't explicitly say "no
+                > alternatives were produced", as we did for
+                > invitation.*
+
+    -   Concept 21: Cinderella realized **it is midnight.**
+
+        -   Does "at midnight she had to run away" count?
+
+            -   *Yes, this would count*
+
+    -   Concept 22: **She ran down the stairs.**
+
+        -   "she ran off" -- does this count? Or does it have to be "ran
+            > away" or "ran out"?
+
+            -   *"off" would count*
+
+### ***Grammatical form and word order***
+
+-   Essential information does not have to be spoken in standard
+    > grammatical form or standard word order, as long as deviations
+    > would not lead to miscomprehension of the essential meaning of the
+    > main concept. 
+
+-   [Cookie Theft Example -]{.ul} For the main concept, \"The woman is
+    > doing the dishes,\" the following statements would be considered
+    > accurate:
+
+    -   Mother do dishes.
+
+    -   Lady drying some plate.
+
+    -   Woman dishes drying them.
+
+-   [Broken Window Example --]{.ul} For main concept 6 "***^1^The ball
+    > ^2^breaks ^3^a lamp.***" the following statements would be
+    > considered accurate.
+
+    -   Ball break lamp(s).
+
+    -   Ball lamp broken.
+
+    -   Lamp is broken um ball boom.
+
+### ***Articulation***
+
+-   Essential words do not have to be correctly articulated to be
+    > considered accurate, as long as they would be intelligible to a
+    > listener as the target words in the context of what the speaker is
+    > saying. 
+
+    -   Assume that the listener has seen the stimulus picture.
+
+-   [Broken Window Example]{.ul}
+
+    -   Concept 6: "***^1^The ball ^2^breaks ^3^a lamp.***"
+
+        -   "knocked over a **lap** in the man's house after going
+            > through the window"
+
+    -   Concept 3: ***^1^The ball ^2^breaks ^3^the*** man's/neighbor's
+        > ***window.***
+
+        -   "And window ch **bwoke** by ball"
+
+    -   Concept 2: ***^1^A/The boy ^2^was playing ^3^soccer.***
+
+        -   "Dah boy **bahlayed** soccer"
+
+### ***Inaccurate*** ***\[nonessential\]*** ***words in accurate main concepts***
+
+-   If the essential information in a main concept is accurate, but
+    > inaccurate words also are included in the concept, consider the
+    > main concept accurate unless the inaccurate words alter essential
+    > information to make it inaccurate. 
+
+-   [Cookie Theft Example -]{.ul} For the main concept "The woman/mother
+    > is doing dishes", the following statement would be considered
+    > accurate:
+
+    -   \"The woman is drying the dishes with a bath towel\"
+
+        -   Even though the woman is using a dish towel, the essential
+            > information is accurate, because "towel" or "cloth" is not
+            > an essential element.
+
+-   [Broken Window Example -]{.ul} For main concept 4 "***^1^The man
+    > ^2^is sitting*** in a chair and/or inside the house", the
+    > following statement would be considered accurate:
+
+    -   \"The man is sitting reading a newspaper\"
+
+        -   Even though the man is not reading anything, the essential
+            > information is accurate, and "reading a newspaper" is not
+            > essential.
+
+    -   "The man sit sofa"
+
+        -   Even though he is sitting in a chair, not on a sofa, the
+            > essential information is accurate, and "chair" is not
+            > essential
+
+        -   (See also above rule for Accuracy/Grammatical form and word
+            > order for "The man sit" portion of this production)
+
+-   [Cinderella Examples]{.ul} - For main concept 19: "***^1^The prince
+    > and Cinderella ^2^danced*** around the room/all night/with no one
+    > else", the following statement would be considered inaccurate:
+
+    -   \"Um... man i-is dancing da teacher and Cinderella um dances
+        > on\"
+
+        -   teacher replaces man, which makes it incorrect because it\'s
+            > not the prince, but Cinderella and the verb dancing are
+            > present, completing all the elements.
+
+### ***Effects of statement form on essential information***
+
+-   The form in which a speaker chooses to state a main concept affects
+    > which information is considered essential. 
+
+-   [Cookie Theft Example -]{.ul} Not provided by Nicholas & Brookshire
+    > (1995). (The example they give in their appendix is for the
+    > procedure of how to do dishes.)
+
+-   [Broken Window Example -]{.ul} We haven't actually seen an example
+    > of this.
+
+-   [Refused Umbrella Example]{.ul} - for main concept 2 "The mother
+    > says ***^1^you ^2^need to take ^3^the umbrella***", the following
+    > would be considered accurate (see checklist, Note 1):
+
+    -   "***^2^***Take this ***^3^***umbrella", since English allows the
+        > subject to be dropped in a command.
+
+### ***Inaccurate pronoun referents***
+
+-   If a referent is inaccurate but a pronoun that refers to it is
+    > accurate, consider the statement with the pronoun accurate. 
+
+-   [Cookie Theft Example -]{.ul} For the main concept "The woman is
+    > doing dishes" if the following statements were made:
+
+    -   \"The man is washing dishes. She is not paying attention to her
+        > kids\"
+
+        -   The first statement would be considered inaccurate but the
+            > second would be considered accurate.
+
+-   [Broken Window Example -]{.ul} For main concept 7 "***^1^The man
+    > ^2^picks up ^3^the ball***" if the following statements were made:
+
+    -   \"The woman picks up the ball. He looks out the window.\"
+
+        -   The first statement would be considered inaccurate but the
+            > second statement would be considered accurate because the
+            > pronoun correctly refers to a male.
+
+### ***Restatement of essential information***
+
+-   If essential information is stated one way and then restated, score
+    > the final version spoken. 
+
+-   [Cookie Theft Example -]{.ul} for the main concept "The woman is
+    > doing the dishes" if the following statements were made:
+
+    -   \"The woman, he is doing the dishes.\" This statement would be
+        > considered inaccurate.
+
+    -   \"The man no woman is doing the dishes,\" the statement would be
+        > considered accurate.
+
+-   [Broken Window Example]{.ul} - for main concept 2 "***^1^A/The boy
+    > ^2^was playing ^3^soccer.***" if the following statements were
+    > made:
+
+    -   "The boy is playing baseball, no, soccer," the statement would
+        > be considered accurate.
+
+    -   "The boy was kicking a soccer ball. And the ball goes way up
+        > high. So the boy was playing baseball."
+
+        -   You would score "The boy was playing baseball" for main
+            > concept 2, because this is a restatement of the first
+            > utterance, even though it results in a lower score.
+
+-   [Refused Umbrella Example]{.ul} - individuals with more cognitive
+    > involvement may not realize/express their understanding at first
+    > that the mother has offered the umbrella (main concept 2) and that
+    > the boy has refused it (main concept 3), but may correct
+    > themselves when they get to the bottom panel (pictures 4-6). They
+    > may then go back and revise their statements and these revisions
+    > (the final versions) would be what is scored.
+
+    -   (This may mean that they end up scoring quite well for main
+        > concepts, but you should make a notation somewhere that this
+        > individual "missed" the gist, which was NOT commonly observed
+        > in controls OR PWAs, and may warrant further assessment of
+        > cognitive abilities/inference.)
+
+## **[Completeness]{.ul}**
+
+### ***Missing essential information***
+
+-   If only some of the essential information (***bold italicized***)
+    > for a main concept is mentioned, either in its list form or in a
+    > form that has the same general meaning, consider the main concept
+    > incomplete.
+
+-   [Broken Window Example]{.ul} - For main concept 2: **"*^1^A/The boy
+    > ^2^was playing ^3^soccer*"** the following statements would be
+    > incomplete:
+
+    -   "The boy is playing."
+
+    -   "The boy soccer ball."
+
+-   [Cinderella Example]{.ul} - For main concept 22: **"*^1^She ^2^ran
+    > ^3^down the stairs*"** the following statement would be
+    > incomplete:
+
+    -   "And she had to run."
+
+        -   "she" is correct, if there is a clear pronoun referent or if
+            > it is not ambiguous; "run" is present; what is missing is
+            > "down the stairs" (or some acceptable alternative, e.g.,
+            > out of the ball, away from the castle/prince/ball, out,
+            > away, etc.)
+
+### ***Statements containing some of the essential information***
+
+-   If a statement that is not listed as a main concept contains some of
+    > the essential information for a main concept, consider the main
+    > concept incomplete. 
+
+-   [Cookie Theft Example -]{.ul} For the main concept "The woman is
+    > doing the dishes" the following utterance would be considered
+    > incomplete:
+
+    -   \"**The woman** is standing there\". This would be the case as
+        > long as \"woman\" was not counted toward another main concept
+        > and the character has not been mentioned previously. Such
+        > statements serve to establish a character, element, or action
+        > in a story.
+
+-   [Broken Window Examples]{.ul}
+
+    -   For main concept 4: **"*^1^The man ^2^is sitting*** in a chair
+        > and/or inside the house." the following statement would be
+        > incomplete:
+
+        -   "The ball hit a man."
+
+    -   For main concept 2: **"*^1^A/The boy ^2^was playing
+        > ^3^soccer*"** the following statement would be incomplete:
+
+        -   "It is a ball."
+
+-   [Cinderella Examples]{.ul}
+
+    -   For main concept 1 "***^1^Dad ^2^remarried ^3^a woman*** with
+        > two daughters.", the following statement would be considered
+        > incomplete/credited towards this main concept:
+
+        -   "She lost her dad", "Her dad died", because this was the
+            > introduction/establishment of a major character of the
+            > story, and no other statements mapped on to this concept.
+
+    -   For main concept 8 "King announces ***^1^there is going to be
+        > ^2^a ball*** in honor of son who needs to find a wife." or
+        > main concept 17 "***^1^Cinderella ^2^went ^3^to the ball*** in
+        > the coach", the following statement could be credited towards
+        > one of those concepts, depending on where/when in the episodic
+        > structure the person produces the utterance:
+
+        -   "Then .... ball", because this introduces/establishes a
+            > major element of this story
+
+### ***Nonspecific words***
+
+-   If nonspecific words are spoken in place of essential information,
+    > consider the main concept incomplete. 
+
+-   [Cookie Theft Example -]{.ul} For the main concept "The woman is
+    > washing the dishes", the following statement would be incomplete:
+
+    -   \"The woman is washing that thing.\"
+
+        -   \*BUT\* In some cases there may be legitimate uncertainty
+            > about a specific person or element in a picture (e.g.,
+            > \"Someone is fishing\" \[WAB Picnic Scene\]). In such
+            > instances, the nonspecific word will appear on the main
+            > concept list and its use will not render the main concept
+            > incomplete.
+
+-   [Broken Window Example -]{.ul} For main concept 4: **"*^1^The man
+    > ^2^is sitting*** in a chair and/or inside the house", the
+    > following statement would be incomplete:
+
+    -   "Someone is in the house."
+
+-   [Cat Rescue/Cat in the Tree Example]{.ul} - For main concept 8:
+    > "***^1^Someone ^2^called ^3^the fire department***."
+
+    -   This action is not pictured in the stimulus, so there is
+        > legitimate uncertainty about who calls. A reference to any
+        > person would be appropriate here, or the use of a nonspecific
+        > "somebody" or "someone". (Examples are provided in the
+        > published checklist)
+
+### ***Pronoun referents***
+
+-   If the referent for a pronoun is ambiguous, consider the main
+    > concept that contains the ambiguous pronoun incomplete, *[but only
+    > for the first use of the pronoun for that referent ]{.ul}*
+
+-   Do not consider a main concept incomplete if there is no antecedent
+    > referent for a pronoun but the referent is clear from
+    > context/unambiguous. 
+
+    -   For example, if there is only one \"she\" or \"he\" or \"they\"
+        > in a picture, or only one figure is completing a specific
+        > action, the pronoun would be unambiguous without an antecedent
+        > referent. 
+
+-   [Cookie Theft Example --]{.ul} For the main concept "The boy is
+    > falling off the stool" the following utterance is complete:
+
+    -   "He is about to fall." This is unambiguous without a referent
+        > because the only male figure in the picture is the little boy
+        > standing on the stool.
+
+-   [Broken Window Example -]{.ul} For main concept 4 "***^1^The man
+    > ^2^is sitting*** in a chair and/or inside the house" the following
+    > utterance is complete:
+
+    -   "He is sitting inside." This is unambiguous because there is
+        > only one person pictured inside the house.
+
+-   [Cinderella Examples]{.ul}
+
+    -   Concept 2: **Cinderella lives with stepmother/stepsisters.**
+
+        -   Does "they combined families" count?
+
+            -   *If "they" is referring to some set of individuals that
+                > clearly includes Cinderella, then this could be
+                > interpreted similarly to "Cinderella/she has new
+                > family", which would be allowed and would AC.*
+
+            -   *However, if "they" is unclear or if "they" is referring
+                > only to the father and the stepmother, this does not
+                > apply to this concept, it is a separate concept, and
+                > this would receive the code of AB.*
+
+        -   Does "When they brought Cinderella home..." count?
+
+            -   *AC as long as appropriate pronoun referent; This seems
+                > to be most similar to a restructuring of acceptable
+                > alternatives of she/Cinderella (1), moves in with (2),
+                > new family/they (3).*
+
+    -   Pronouns/antecedents: How stringent are the criteria for
+        > ensuring that the pronouns are unambiguous? If there is
+        > syntactic ambiguity regarding who went to the ball (e.g., in
+        > some cases "she went to the ball" could syntactically be
+        > either Cinderella or the Godmother), is that counted as
+        > incorrect even though it may be assumed shared knowledge that
+        > Cinderella went to the ball?
+
+        -   *We allowed shared knowledge in those instances, so we would
+            > score that as AC, as long as both Cinderella and the Fairy
+            > Godmother had been mentioned (guided by Nicholas and
+            > Brookshire rules)*
+
+## Additional Notes on Nicholas and Brookshire Rules
+
+-   Main concepts do not have to be spoken in the same order they are
+    > shown in the main concept list.
+
+    -   [Broken Window Example]{.ul}
+
+        -   "There is a little boy playing soccer, he's outside in the
+            > yard"
+
+            -   MC2 is produced first and should be coded as AC. MC1 is
+                > produced second and should also be coded as AC.
+
+-   If a main concept is spoken several times, ALWAYS score the final
+    > version.
+
+    -   [Broken Window Example]{.ul}
+
+        -   "*The boy is playing soccer, practicing for the team
+            > try-outs, so he's kicking the ball, and it goes right
+            > through the window*"
+
+            -   Both "*the boy is playing soccer*" and "*he's kicking
+                > the ball*" apply to MC2. Since, "*he's kicking the
+                > ball*" is produced later, that is the utterance that
+                > should be scored for MC2.
+
+            -   This is true even if the later utterance results in an
+                > error code, while the first utterance would receive an
+                > AC code.
+
+-   Essential elements for main concepts can be produced across multiple
+    > utterances.
+
+    -   There are many different criteria used to segment discourse into
+        > utterances. Practicing clinicians may not have the time or
+        > training on specific segmenting approaches. If essential
+        > elements are produced within a reasonable distance within a
+        > string of words, regardless of where utterance boundaries may
+        > be placed, they can still count towards a single main concept.
+
+    -   [Broken Window Example -]{.ul} for main concept 8: "***^1^The
+        > man ^2^looked ^3^out of the window.***" the following
+        > utterances can be scored together:
+
+        -   Utterance 1: "*man gets up."*
+
+        -   Utterance 2: "*mad mad mad."*
+
+        -   Utterance 3: "*looks out the window.*
+
+-   The verb tense used in the production should **not** impact the code
+    > received. Any inflected form of the verbs listed in the checklist
+    > should be allowed.
+
+    -   [Broken Window Example -]{.ul} for main concept 8: "***^1^The
+        > man ^2^looked ^3^out of the window.***" the following
+        > utterances would be accurate and complete:
+
+        -   "the man is looking outside"
+
+        -   "so the man will go look out the glass to see who's there"
+
+        -   "the man looks out the window"
+
+-   One utterance can be used to produce two or more main concepts
+
+    -   [Broken Window Example -]{.ul} for main concept 7 "***^1^The man
+        > ^2^picks up ^3^the ball.***" and 8 "***^1^The man ^2^looked
+        > ^3^out of the window.***" the following statement would be
+        > accurate and complete:
+
+        -   "the man picks up the ball and looks out."
+
+        -   "the man looks out the window holding the ball."
+
+OTHER EXAMPLES, TO BE FILED UNDER CORRECT ACCURACY OR COMPLETENESS RULE
+
+-   [Cinderella Examples]{.ul}
+
+    -   Concept 1: **Dad remarried a woman** with two daughters.
+
+        -   OK if this spans 2 utterances? (e.g., The dad remarried. The
+            > woman was mean...)
+
+            -   *We would score "the dad remarried" as AI -- The object
+                > of the sentence is missing. "The woman was mean" was
+                > actually a separate concept that is seen represented
+                > in the 3^rd^ concept in the appendix.*
+
+            -   *We have had disagreement over this, as we have stated
+                > that MCs can span utterances, and since there is a
+                > clear inference/relationship in this example.*
+
+    -   Concept 18: She knew **she had to be home by midnight** because
+        > everything will turn back at midnight.
+
+        -   *Does "Had to be back by midnight" count?*
+
+            -   *would code as AC, assuming there was a subject; if no
+                > subject, then AI*
+
+    -   Concept 10: **Cinderella** is told by the stepmother she
+        > **cannot go** to the ball unless/because (insert reason)
+
+        -   Would "And Cinderella um go no" count as complete for this?
+
+            -   *Scored as AI, however, it matters if the patient
+                > intends "no" as a revision*
+
+    -   *There are examples in Richardson & Dalton (2016) of how to code
+        > utterances where verbs are omitted (i.e., "Mother dishes" is
+        > AI), but none where a subject is omitted. Is it necessary for
+        > an utterance to have a subject to be an MC? Or could an
+        > utterance be coded as AI/II if it is missing the subject but
+        > contains other essential components?*
+
+        -   *A STATEMENT DOES NOT HAVE TO HAVE A SUBJECT TO BE CODED AS
+            > AN MC, IT CAN BE GIVEN AN AI/II CODE AS APPROPRIATE.*
+
+    -   *How does more complex syntax influence the interpretation of
+        > MCs? Specifically, what do you do if the participant uses a
+        > compound predicate; can this count as 2 MCs with the common
+        > subject (e.g., "Cinderella lives with her stepmother and
+        > stepsisters and had to do all the housework for them.")*
+
+        -   *WE WOULD GIVE CREDIT FOR BOTH MCs. BOTH WOULD RECEIVE AN
+            > \"AC\".*
+
+    -   *What if the MC subject is an object of a sentence with a verb
+        > clause following it that includes the MC verb/object (e.g.,
+        > "there was a girl named Cinderella who lived with her
+        > stepmother and stepsisters.")*
+
+        -   *IN THE SECOND INSTANCE, WE WOULD GIVE CREDIT FOR MC2 FOR
+            > THE VERB CLAUSE. \"WHO\" CLEARLY REFERENCES CINDERELLA IN
+            > THE MAIN CLAUSE, SO THE PARTICIPANT SUCCESSFULLY PRODUCED
+            > THE SUBJECT (WHO = CINDERELLA), VERB (LIVED), AND
+            > ADDITIONAL INFO (WITH STEPMOM/STEPSISTERS). WE WOULD CODE
+            > THIS AS AN \"AC\" FOR MC2.*
+
+    -   *How much of an utterance is needed to count as a main concept?
+        > "At the strike of midnight" has no subject and no verb, but
+        > includes "strike" (as a noun) and "midnight" -- two of the
+        > essential elements from MC 21. Does this still count as MC
+        > 21?*
+
+        -   *WE WOULD COUNT THIS AS MC 21. THIS GOES BACK TO THE
+            > NICHOLAS & BROOKSHIRE RULE THAT SAYS THAT THE FORMULATION
+            > OF THE MC CAN IMPACT WHAT IS CONSIDERED ESSENTIAL. SINCE
+            > THIS IS AN APPROPRIATE FORMULATION IN ENGLISH TO EXPRESS
+            > THE CONCEPT OF IT BEING MIDNIGHT, IT WOULD BE SCORED AS
+            > \"AC\".*
+
+    -   *How do you count subordinate clauses that do have a separate
+        > verb from the main clause? Can the subordinate clause stand on
+        > its own as an MC? (e.g., "Cinderella lives with her stepmother
+        > and stepsisters who are very mean to her")*
+
+        -   *YES, WE WOULD ALLOW THIS STATEMENT TO RECEIVE CREDIT FOR
+            > BOTH MC2 AND MC3.*
+
+    -   *How do you handle situations in which an utterance clearly
+        > relates to an MC, but is formulated with different words? Do
+        > you handle it differently if the utterance requires an
+        > inference to understand how it is related? (e.g., "her dad
+        > introduces Cinderella to his new wife" -- implies he got
+        > re-married \[MC1\]; "the king is upset that his son hasn't
+        > married" -- implies the king thinks his son should get married
+        > \[MC6\]; "one of the caveats of the fairy's spell is that it
+        > ended at midnight" -- implies \[MC18\])*
+
+        -   *THESE EXAMPLES SHOULD NOT COUNT TOWARDS THE MCs YOU
+            > IDENTIFIED, AS IT REQUIRES TOO MUCH INFERENCE AND DOES NOT
+            > DIRECTLY EXPRESS THE GIST; ALSO, IN OUR NORMING SAMPLE,
+            > EACH OF THOSE STATEMENTS WERE RELEVANT CONCEPTS THAT DID
+            > NOT REACH THE CUT-OFF TO BE CONSIDERED MCs.*
+
+        -   *BUT SEE RULE FOR COMPLETENESS/**Statements containing some
+            > of the essential information***
+
+TO BE ANSWERED
+
+-   Concept 3: Stepmother and/or stepsisters were mean to Cinderella
+
+    -   "They didn't really give her enough attention"
+
+    -   What is the strength of \"giving enough attention\" and how does
+        > it relate to main concept of \"being mean\" ?
+
+-   Concept 4: Cinderella was a servant to the stepmother and
+    > stepsisters.
+
+    -   "She was white trash"
+
+    -   Is white trash similar enough to being lesser than, but not
+        > similar enough to servitude? OR is it just a statement that is
+        > being made by the participant and it doesn\'t really
+        > add/contribute to the main concept?
+
+# Scoring Examples
+
+<!-- ![Text Description automatically -->
+<!-- generated](./docs/MCAMedia/media/image1.png){width="6.5in" -->
+<!-- height="2.410416666666667in"} -->
+
+[Taken from Appendix 4 of:]{.ul}
+
+Richardson, J. D., & Dalton, S. G. (2016). Main concepts for three
+different discourse tasks in a large non-clinical sample. *Aphasiology*,
+*30*(1), 45-73.
+
++------+---------------------------------------------------------------+
+| Cat  |                                                               |
+| in   |                                                               |
+| the  |                                                               |
+| Tree |                                                               |
++======+===============================================================+
+| > *  |                                                               |
+| *^1^ |                                                               |
+| *The |                                                               |
+| > li |                                                               |
+| ttle |                                                               |
+| > g  |                                                               |
+| irl* |                                                               |
+| >    |                                                               |
+|  ^2^ |                                                               |
+| *was |                                                               |
+| >    |                                                               |
+|  rid |                                                               |
+| ing* |                                                               |
+| >    |                                                               |
+|  ^3^ |                                                               |
+| *her |                                                               |
+| >    |                                                               |
+|  bic |                                                               |
+| ycle |                                                               |
+| ***. |                                                               |
++------+---------------------------------------------------------------+
+| > AC | > **"Sally was pedaling her bike around."**                   |
++------+---------------------------------------------------------------+
+| > AI | > **"little girl... bike."**                                  |
+|      | >                                                             |
+|      | > · *No verb is produced.*                                    |
++------+---------------------------------------------------------------+
+| > IC | > **"He was riding a tricycle."**                             |
+|      | >                                                             |
+|      | > · *Incorrect pronoun "he."*                                 |
++------+---------------------------------------------------------------+
+| > II | > **"little boy... dirt bike."**                              |
+|      | >                                                             |
+|      | > · *Incorrect noun use.*                                     |
+|      | >                                                             |
+|      | > · *No verb is produced.*                                    |
++------+---------------------------------------------------------------+
+|      |                                                               |
++------+---------------------------------------------------------------+
+| >    |                                                               |
+|  Ref |                                                               |
+| used |                                                               |
+| >    |                                                               |
+| Umbr |                                                               |
+| ella |                                                               |
++------+---------------------------------------------------------------+
+| > *  |                                                               |
+| *^1^ |                                                               |
+| *The |                                                               |
+| >    |                                                               |
+| boy* |                                                               |
+| > ^2 |                                                               |
+| ^*wa |                                                               |
+| lks* |                                                               |
+| > ^3 |                                                               |
+| ^*to |                                                               |
+| > sc |                                                               |
+| hool |                                                               |
+| *.** |                                                               |
++------+---------------------------------------------------------------+
+| > AC | > **"Timmy headed out to school."**                           |
++------+---------------------------------------------------------------+
+| > AI | > **"and he goes"**                                           |
+|      | >                                                             |
+|      | > · *Clear pronoun referent from previous statement.*         |
+|      | >                                                             |
+|      | > · *Omitted essential element "to school."*                  |
++------+---------------------------------------------------------------+
+| > IC | > **"so she goes outside."**                                  |
+|      | >                                                             |
+|      | > · *Incorrect pronoun "she."*                                |
++------+---------------------------------------------------------------+
+| > II | > **"she runs."**                                             |
+|      | >                                                             |
+|      | > · *Incorrect pronoun "she."*                                |
+|      | >                                                             |
+|      | > · *Omitted essential element "to school"*                   |
++------+---------------------------------------------------------------+
+
+[Taken from Appendix 3 of:]{.ul}
+
+Richardson, J. D., & Dalton, S. G. (2019). Main concepts for two picture
+description tasks: an addition to Richardson and Dalton, 2016.
+*Aphasiology*.
+
+# Broken Window Scoring Sheet
+
++--------+---------------+--------------------+---------------+-------+
+|        | **Essential   | **Essential        | **Essential   | **MC  |
+|        | Element 1**   | Element 2**        | Element 3**   | C     |
+|        |               |                    |               | ode** |
++========+===============+====================+===============+=======+
+| *      | [The          | [Is]{.ul} (was,    | [             |       |
+| *MC1** | boy]{.ul}     | decided to go)     | Outside]{.ul} |       |
+|        | (he, any      |                    | (in his front |       |
+| Som    | name)         |                    | yard, on the  |       |
+| etimes |               |                    | lawn, out of  |       |
+| co     |               |                    | the house)    |       |
+| mbined |               |                    |               |       |
+| with   |               |                    |               |       |
+| MC2    |               |                    |               |       |
++--------+---------------+--------------------+---------------+-------+
+|        |               |                    |               |       |
++--------+---------------+--------------------+---------------+-------+
+| *      | [The          | [plays]{.ul}       | [Soccer]{.ul} |       |
+| *MC2** | boy]{.ul}     | (kicks, hits,      | (with the     |       |
+|        | (he, any      | practices)         | soccer ball,  |       |
+|        | name)         |                    | with the      |       |
+|        |               | "has" is not       | ball, with    |       |
+|        |               | acceptable         | the           |       |
+|        |               |                    | football\*)   |       |
+|        |               |                    | \*if          |       |
+|        |               |                    | dialectically |       |
+|        |               |                    | appropriate   |       |
++--------+---------------+--------------------+---------------+-------+
+|        |               |                    |               |       |
++--------+---------------+--------------------+---------------+-------+
+| *      | [The          | [Breaks]{.ul}      | [The          |       |
+| *MC3** | ball]{.ul}    | (g                 | window]{.ul}  |       |
+|        | (soccer ball, | oes/crashes/flies/ | (the glass)   |       |
+|        | football\*)   |                    |               |       |
+|        |               | sails/is kicked    |               |       |
+|        |               | through or into,   |               |       |
+|        |               | shatters)          |               |       |
++--------+---------------+--------------------+---------------+-------+
+|        |               |                    |               |       |
++--------+---------------+--------------------+---------------+-------+
+| *      | [The          | [Is sitting]{.ul}  |               |       |
+| *MC4** | man]{.ul}     | (lounging,         |               |       |
+|        | (dad/father,  | resting, relaxing, |               |       |
+|        | neighbor,     | is inside) but not |               |       |
+|        | guy, any      | "watching tv"      |               |       |
+|        | name)         | alone              |               |       |
++--------+---------------+--------------------+---------------+-------+
+|        |               |                    |               |       |
++--------+---------------+--------------------+---------------+-------+
+| *      | [The          | [Was               |               |       |
+| *MC5** | man]{.ul}     | startled]{.ul}     |               |       |
+|        | (he, any      | (surprised,        |               |       |
+| Som    | name)         | amazed, afraid,    |               |       |
+| etimes |               | astonished,        |               |       |
+| co     |               | freaked out,       |               |       |
+| mbined |               | stunned, shocked,  |               |       |
+| with   |               | angry, upset, mad, |               |       |
+| MC3    |               | not happy)         |               |       |
++--------+---------------+--------------------+---------------+-------+
+|        |               |                    |               |       |
++--------+---------------+--------------------+---------------+-------+
+| *      | [The          | [Broke]{.ul}       | [A lamp]{.ul} |       |
+| *MC6** | ball]{.ul}    | (hits, smashes,    |               |       |
+|        | (soccer ball, | knocks down)       |               |       |
+|        | football\*)   |                    |               |       |
++--------+---------------+--------------------+---------------+-------+
+|        |               |                    |               |       |
++--------+---------------+--------------------+---------------+-------+
+| *      | [The          | [Picked up]{.ul}   | [The          |       |
+| *MC7** | man]{.ul}     | (grabs, gets,      | ball]{.ul}    |       |
+|        | (he, any      | holds, catches,    | (soccer ball, |       |
+|        | name)         | captures, has)     | football\*)   |       |
++--------+---------------+--------------------+---------------+-------+
+|        |               |                    |               |       |
++--------+---------------+--------------------+---------------+-------+
+| *      | [The          | [Looked]{.ul}      | [Out of the   |       |
+| *MC8** | man]{.ul}     |                    | window]{.ul}  |       |
+|        | (he, any      |                    | (outside,     |       |
+|        | name)         |                    | out, out of   |       |
+|        |               |                    | the glass)    |       |
++--------+---------------+--------------------+---------------+-------+
+|        |               |                    |               |       |
++--------+---------------+--------------------+---------------+-------+
+
+# References
+
+Albright, E., & Purves, B. (2008). Exploring SentenceShaperTM: Treatment
+and augmentative possibilities. *Aphasiology*, *22*(7-8), 741-752.
+
+Avent, J., & Austermann, S. (2003). Reciprocal scaffolding: A context
+for communication treatment in aphasia. *Aphasiology*, *17*(4), 397-404.
+
+Coelho, C. A., McHugh, R. E., & Boyle, M. (2000). Semantic feature
+analysis as a treatment for aphasic dysnomia: A replication.
+*Aphasiology*, *14*(2), 133-142.
+
+Cupit, J., Rochon, E., Leonard, C., & Laird, L. (2010). Social
+validation as a measure of improvement after aphasia treatment: Its
+usefulness and influencing factors. *Aphasiology*, *24*(11), 1486-1500.
+
+Dalton, S. G. H., & Richardson, J. D. (2019). A large-scale comparison
+of main concept production between persons with aphasia and persons
+without brain injury. *American journal of speech-language pathology*,
+*28*(1S), 293-320.
+
+Kong, A. P. H., Whiteside, J., & Bargmann, P. (2016). The Main Concept
+Analysis: Validation and sensitivity in differentiating discourse
+produced by unimpaired English speakers from individuals with aphasia
+and dementia of Alzheimer type. *Logopedics Phoniatrics Vocology*,
+*41*(3), 129-141.
+
+Nicholas, L. E., & Brookshire, R. H. (1995). Presence, completeness, and
+accuracy of main concepts in the connected speech of non-brain-damaged
+adults and adults with aphasia. *Journal of Speech, Language, and
+Hearing Research*, *38*(1), 145-156.
+
+Richardson, J. D., & Dalton, S. G. (2016). Main concepts for three
+different discourse tasks in a large non-clinical sample. *Aphasiology*,
+*30*(1), 45-73.
+
+Richardson, J. D., & Dalton, S. G. H. (2020). Main concepts for two
+picture description tasks: an addition to Richardson and Dalton, 2016.
+*Aphasiology*, *34*(1), 119-136.
+
+Ross, K. B., & Wertz, R. T. (1999). Comparison of impairment and
+disability measures for assessing severity of, and improvement in,
+aphasia. *Aphasiology, 13*, 113--124.
+
+Stark, J. A. (2010). Content analysis of the fairy tale Cinderella--A
+longitudinal single-case study of narrative production: "From rags to
+riches". *Aphasiology*, *24*(6-8), 709-724.

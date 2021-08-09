@@ -19,9 +19,9 @@
 ## to change the name in the app_sys() function in app_config.R /!\
 ## 
 golem::fill_desc(
-  pkg_name = "MCG", # The Name of the package containing the App 
-  pkg_title = "MAIN-CONCEPT-GOLEM", # The Title of the package containing the App 
-  pkg_description = "Test package for main concept app.", # The Description of the package containing the App 
+  pkg_name = "mainConcept", # The Name of the package containing the App 
+  pkg_title = "Main Concept Analysis", # The Title of the package containing the App 
+  pkg_description = "A web interface for scoring main concept analysis in aphasia.", # The Description of the package containing the App 
   author_first_name = "Rob", # Your First Name
   author_last_name = "Cavanaugh", # Your Last Name
   author_email = "rob.cavanaugh@pitt.edu", # Your Email
@@ -33,7 +33,7 @@ golem::set_golem_options()
 
 ## Create Common Files ----
 ## See ?usethis for more information
-usethis::use_mit_license( "Golem User" )  # You can set another license here
+usethis::use_gpl3_license()  # You can set another license here
 usethis::use_readme_rmd( open = FALSE )
 usethis::use_code_of_conduct()
 usethis::use_lifecycle_badge( "Experimental" )
